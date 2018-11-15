@@ -1,13 +1,13 @@
 {
-  "main.css": "/bina/static/css/main.61e1a057.chunk.css",
-  "main.js": "/bina/static/js/main.c529fd4c.chunk.js",
-  "main.js.map": "/bina/static/js/main.c529fd4c.chunk.js.map",
+  "main.css": "/bina/static/css/main.02f0a262.chunk.css",
+  "main.js": "/bina/static/js/main.3c796365.chunk.js",
+  "main.js.map": "/bina/static/js/main.3c796365.chunk.js.map",
   "static/js/1.d65d1c72.chunk.js": "/bina/static/js/1.d65d1c72.chunk.js",
   "static/js/1.d65d1c72.chunk.js.map": "/bina/static/js/1.d65d1c72.chunk.js.map",
   "runtime~main.js": "/bina/static/js/runtime~main.63df57a6.js",
   "runtime~main.js.map": "/bina/static/js/runtime~main.63df57a6.js.map",
-  "static/css/main.61e1a057.chunk.css.map": "/bina/static/css/main.61e1a057.chunk.css.map",
+  "static/css/main.02f0a262.chunk.css.map": "/bina/static/css/main.02f0a262.chunk.css.map",
   "index.html": "/bina/index.html",
-  "precache-manifest.d4b57b0584fab1388602e518f307fecf.js": "/bina/precache-manifest.d4b57b0584fab1388602e518f307fecf.js",
+  "precache-manifest.ef51d8cde90fde2648032085cfddda3b.js": "/bina/precache-manifest.ef51d8cde90fde2648032085cfddda3b.js",
   "service-worker.js": "/bina/service-worker.js"
 }
